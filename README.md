@@ -54,7 +54,7 @@ CLOUDINARY_CLOUD_NAME=dcgmcqszn
 CLOUDINARY_API_KEY=236674418569379
 CLOUDINARY_API_SECRET=OVTm_TgFreBJDJRRB95PjJTThr4
 
-# To connect with this account Cloudinary please connect with wahretzmensabri521@gmail.com to Cloudinary : https://cloudinary.com/
+
 
 
 
